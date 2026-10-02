@@ -8,8 +8,10 @@ There will be 2 primary concerns to convert from analog to digital.
 1. Signal Resolution
 2. Voltage Scale
 
-Minimum desired resolution will be
+For Signal Resolution, it is theoretically infinite, but practically the graph is only divided into so many units.
 
+Minimum desired resolution will be the same as the smallest subdivision of the existing graph.
 
-smallest subdivision possible on the graph (m) / print rate (s)
+Ideally it will be greater than that.
+
 ### Limitations
